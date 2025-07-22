@@ -1,4 +1,4 @@
-개발환경 셋팅
+##개발환경 셋팅
 1. IntelliJ Community 버전 설치 (2025 버전)
 2. mariaDB, Debeaver 설치 및 DB Connection (localhost, 3306)
 3. Spring MVC 환경설정 & API Ping
