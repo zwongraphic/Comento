@@ -8,7 +8,8 @@
 ## REST API 학습
 1. HTTP 통신
 <pre>
-- 안녕
+- HTTP (HyperText Transfer Protocol)
+  웹 상에서 클라이언트와 서버 간에 데이터(요청/응답) 주고 받기 위한 방식
 - 
 </pre>
 2. '브라우저 URL 입력 요청 => 서버에서 응답' 하는 과정
