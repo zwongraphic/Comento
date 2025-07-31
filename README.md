@@ -25,3 +25,10 @@
   *상태코드(200, 404 등), 응답헤더(서버 정보, 응답 방식 등), 응답바디(데이터)
 6) 브라우저가 데이터 렌더링
 </pre>
+3. REST API
+<pre>
+- API(Application Programming Interface): 데이터를 주고받는 방식에 대한 규칙
+- REST(Representational State Tranfer): HTTP 메서드, URL 경로 등을 활용하여 데이터를 주고받는 아키텍처 스타일
+ 
+- 클라이언트가 요청(Request) => 서버가 응답(Response)
+</pre>
