@@ -27,8 +27,8 @@
 </pre>
 3. REST API
 <pre>
-- API(Application Programming Interface): 데이터를 주고받는 방식에 대한 규칙
-- REST(Representational State Tranfer): HTTP 메서드, URL 경로 등을 활용하여 데이터를 주고받는 아키텍처 스타일
- 
-- 클라이언트가 요청(Request) => 서버가 응답(Response)
+- API(Application Programming Interface): 데이터를 주고받기 위한 규칙
+- REST(Representational State Tranfer): 자원 중심 설계를 따르는 데이터 통신 방식
+ *HTTP 메서드로 자원 접근, URL로 자원 식별, 클라이언트-서버 구조 등의 특징
+- REST API: REST 원칙을 따르는 API, HTTP를 통해 자원에 요청하고 응답하는 방식
 </pre>
